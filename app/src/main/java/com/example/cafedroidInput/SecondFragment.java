@@ -1,4 +1,4 @@
-package com.example.cafedroid;
+package com.example.cafedroidInput;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
